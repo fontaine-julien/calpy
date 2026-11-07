@@ -1,0 +1,24 @@
+# Environnements et caches Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Fichiers locaux et exports
+/tmp/
+*.pdf
+*.log
+Thumbs.db
+.DS_Store
+
+# Données et réglages privés
+/BDD/
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+.env
+.env.*
