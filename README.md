@@ -60,6 +60,8 @@ Les tests utilisent `unittest`, fourni avec Python. Depuis la racine du projet, 
 
 ## Licence et contributions
 
-CalPy est libre et gratuit sous [licence MIT](LICENSE). Vous pouvez l’utiliser, le modifier et le redistribuer en conservant la notice de licence.
+**Créateur d’origine de PyStats** · Julien Fontaine. [Profil GitHub de Julien Fontaine](https://github.com/fontaine-julien) · [Dépôt d’origine de PyStats](https://github.com/fontaine-julien/calpy)
 
-Les forks, les contributions et les commentaires sont les bienvenus. Ouvrez une issue pour proposer une amélioration ou signaler un problème. Si possible, indiquez votre système et joignez un exemple de calcul qui permet de reproduire le problème. Les vulnérabilités se signalent en privé selon la [politique de sécurité](SECURITY.md).
+Le code est libre et gratuit sous [licence MIT](LICENSE). Vous pouvez l’utiliser, le modifier et le redistribuer en conservant la licence et le crédit d’origine, avec le nom de Julien Fontaine et son lien GitHub, dans vos copies.
+
+Les forks, les contributions et les retours d’expérience sont les bienvenus. Pour signaler un problème ou suggérer une amélioration, ouvrez une issue sur GitHub avec une description et, si possible, un exemple fictif.
